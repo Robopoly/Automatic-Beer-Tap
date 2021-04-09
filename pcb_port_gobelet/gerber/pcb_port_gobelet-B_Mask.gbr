@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,5.1.9-73d0e3b20d~88~ubuntu20.04.1*%
-%TF.CreationDate,2021-04-09T06:43:05+02:00*%
+%TF.CreationDate,2021-04-09T16:28:33+02:00*%
 %TF.ProjectId,pcb_port_gobelet,7063625f-706f-4727-945f-676f62656c65,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.9-73d0e3b20d~88~ubuntu20.04.1) date 2021-04-09 06:43:05*
+G04 Created by KiCad (PCBNEW 5.1.9-73d0e3b20d~88~ubuntu20.04.1) date 2021-04-09 16:28:33*
 %MOMM*%
 %LPD*%
 G01*
@@ -36,10 +36,10 @@ X135382000Y-117729000D03*
 %TD*%
 D10*
 %TO.C,S1*%
-X123063000Y-135509000D03*
+X122809000Y-116078000D03*
 D11*
-X123063000Y-132969000D03*
-X123063000Y-130429000D03*
+X122809000Y-118618000D03*
+X122809000Y-121158000D03*
 %TD*%
 D10*
 %TO.C,S2*%
