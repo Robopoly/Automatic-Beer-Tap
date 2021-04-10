@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/teogoddet/ROBOpoly/Tireuse/pcb_central_unit/RBY_tireuse.sch)
-    (date "Fr 09 Apr 2021 21:11:45")
+    (source /home/teogoddet/ROBOpoly/Tireuse/pcb_central_unit/pcb_central_unit.sch)
+    (date "Sa 10 Apr 2021 14:20:22")
     (tool "Eeschema 5.1.9-73d0e3b20d~88~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -9,7 +9,7 @@
         (company)
         (rev)
         (date)
-        (source RBY_tireuse.sch)
+        (source pcb_central_unit.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
